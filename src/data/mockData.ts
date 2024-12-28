@@ -42,10 +42,10 @@ export const mockActivities: EcoActivity[] = [
 export const userProfile: UserProfile = {
   name: 'Vishal Vana',
   email: 'vishalVana@email.com',
-  location: 'Mumbai',
+  location: 'Haryana',
   totalTrips: 12,
   joinedDate: '2024-01-15',
-  avatar: 'https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=150'
+  avatar: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png'
 };
 
 export const stats: Stats = {
